@@ -1,0 +1,1 @@
+This is my old website, which I am keeping here for posterity. See [react-website](https://github.com/AutumnAurelium/react-website) for the page currently being served at [aurelium.me][https://aurelium.me/].
